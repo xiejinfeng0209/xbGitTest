@@ -3,6 +3,6 @@
  */
 public class iamxb {
     public static void main(String[] args) {
-        System.out.print("我是学霸君");
+        System.out.print("我是学霸君哦");
     }
 }
